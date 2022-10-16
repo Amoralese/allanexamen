@@ -1,0 +1,8 @@
+C:\Users\raque\source\repos\examenallan\examenallan\bin\Debug\examenallan.exe.config
+C:\Users\raque\source\repos\examenallan\examenallan\bin\Debug\examenallan.exe
+C:\Users\raque\source\repos\examenallan\examenallan\bin\Debug\examenallan.pdb
+C:\Users\raque\source\repos\examenallan\examenallan\obj\Debug\examenallan.csproj.AssemblyReference.cache
+C:\Users\raque\source\repos\examenallan\examenallan\obj\Debug\examenallan.csproj.SuggestedBindingRedirects.cache
+C:\Users\raque\source\repos\examenallan\examenallan\obj\Debug\examenallan.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\examenallan\examenallan\obj\Debug\examenallan.exe
+C:\Users\raque\source\repos\examenallan\examenallan\obj\Debug\examenallan.pdb
